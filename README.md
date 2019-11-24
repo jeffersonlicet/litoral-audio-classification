@@ -1,6 +1,6 @@
 # Audio classification Colab for the AI Litoral 2019 Challenge 
 
-Este colab te permite recrear cómo logré alcanzar el top 5 en el leaderboard público del concurso.
+Este colab permite recrear el enfoque para alcanzar el Top 5 en el Leaderboard público del concurso.
 
 ## Incluye:
 
