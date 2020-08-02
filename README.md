@@ -1,5 +1,8 @@
 # Audio classification Colab for the AI Litoral 2019 Challenge 
 
+ <a href="https://badges.pufler.dev/visits/jeffersonlicet/litoral-audio-classification"><img src="https://badges.pufler.dev/visits/jeffersonlicet/litoral-audio-classification"></a>
+
+
 Este colab permite recrear el enfoque para alcanzar el Top 5 en el Leaderboard público del concurso.
 
 ## Incluye:
